@@ -1,3 +1,7 @@
+---
+ bibliography: https://github.com/heinzwittenbrink/wittenbrink-net-bibliography/blob/main/Meine%20Bibliothek.json 
+---
+
 # Ökologische Diskurskultur oder Demokratiekrise?
 
 Kim Stanley Robinson schildert in *Das Ministerium für die Zukunft* [-@robinsonMinisteriumFurZukunft2021], wie es der Menschheit nach 2030 gelingt, die Klimakatastrophe aufzuhalten. Nach Hitzewellen mit Millionen Toten entscheiden sich die Staaten der Welt zusammenzuarbeiten, reduzieren die Emissionen radikal und überlassen eine Hälfte der Erde wieder der Natur. In den 50er Jahren des 21. Jahrhunderts können die Menschen hoffen, dass sich der Planet zu ihren Lebzeiten erholen wird.
